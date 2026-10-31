@@ -1,3 +1,4 @@
+# KR2: Kobylanskiy
 import os
 import socket
 
